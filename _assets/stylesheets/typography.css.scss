@@ -1,0 +1,62 @@
+/* ========================================================= Typography ===*/
+// Type Scale: 5 7 9 12 16 21 28 37 50 83 111
+h1, h2, h3, h4 {
+  color: #1A1A1A;
+  margin: 1.414em 0 0.5em;
+  font-family: 'Circular Bold', sans-serif;
+  font-weight: normal;
+  line-height: 1.2;
+}
+h1{
+  font-size: 37px;
+  margin-top: 0;
+
+  text-align: center;
+}
+h2{
+  font-size: 2.827em;
+  margin: 0 0 5px;
+}
+h3{
+  display: block;
+  font-size: 1.999em;
+  margin: 35px 0 15px;
+}
+h4{
+  font-size: 1.414em;
+  margin: 5px 0;
+}
+p{
+  color: #656565;
+  color: #808080;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 1.3em;
+}
+strong{
+  color: #000;
+}
+small, .font_small{
+  font-size: 0.707em;
+}
+ul, ol{
+  margin: 0 0 20px;
+}
+li{
+  color: #656565;
+  font-family: 'ProximaNova', sans-serif;
+  line-height: 1.5;
+}
+dl{
+  color: #656565;
+  font-family: 'ProximaNova', sans-serif;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+dt{
+  font-weight: bold;
+}
+dd{
+  color: #A9A9A9;
+  margin: 0 0 10px 10px;
+}

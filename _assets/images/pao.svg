@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="316px" height="334px" viewBox="0 0 316 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>pao</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,23.0194668 C0,21.9133474 0.688488164,20.4549612 1.59337727,19.8045236 C1.59337727,19.8045236 22.3397741,0.0166604984 120,0.0166604984 C217.660226,0.0166604984 238.417811,19.8121838 238.417811,19.8121838 C239.29163,20.4773979 240,21.9176863 240,23.0194668 L240,133.013854 C240,134.119974 239.517763,135.768835 238.813175,136.615715 C238.813175,136.615715 229.519663,158.01666 120,158.01666 C10.480337,158.01666 1.18682452,136.615715 1.18682452,136.615715 C0.531359438,135.732582 0,134.115635 0,133.013854 L0,23.0194668 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="158" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M120,39.0166605 C186.27417,39.0166605 240,31.3009317 240,23.0166605 C240,14.7323893 200.044922,0.0166604984 119.497908,0.0166604984 C38.950894,0.0166604984 0,14.7323893 0,23.0166605 C0,31.3009317 53.72583,39.0166605 120,39.0166605 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="240" height="39" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M270,10 L270,42 C270,42 235.128638,52 135,52 C34.871362,52 0,42 0,42 L0,10.0000052 C0,4.4771525 60.4415588,0 135,0 C209.558441,0 270,4.4771525 270,10 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="270" height="52" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <ellipse id="path-7" cx="135" cy="10" rx="135" ry="10"></ellipse>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="270" height="20" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Completed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pao" stroke="#000000" stroke-width="10">
+            <g id="pao12" transform="translate(-4.000000, -7.000000)">
+                <g id="Container" transform="translate(42.000000, 181.000000)">
+                    <use id="front" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                    <use id="opening" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Lid" transform="translate(130.000000, 90.016660) rotate(-30.000000) translate(-130.000000, -90.016660) translate(-5.000000, 64.016660)">
+                    <use id="front" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                    <use id="top" mask="url(#mask-8)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
