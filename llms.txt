@@ -1,0 +1,36 @@
+# PAO Symbol
+
+> Free SVG vector downloads of the Period After Opening (PAO) symbol used on cosmetic product packaging. No attribution required.
+
+## What is the PAO Symbol?
+
+The Period After Opening (PAO) symbol is a regulatory symbol found on cosmetic and personal care product packaging. It looks like an open jar with a number and the letter "M" (for months) printed on it. The number indicates how many months a product remains safe and effective after it has been opened for the first time.
+
+The PAO symbol is required under EU Cosmetics Regulation (EC) No 1223/2009 for products with a shelf life greater than 30 months. It is also widely used on US cosmetic products as a best practice.
+
+## Downloads Available
+
+All files are SVG format, free to use with no attribution required.
+
+- **Blank PAO** — No duration filled in, suitable for custom labeling: https://paosymbol.com/pao.svg
+- **12M PAO** — 12-month use period: https://paosymbol.com/pao12.svg
+- **24M PAO** — 24-month use period: https://paosymbol.com/pao24.svg
+- **36M PAO** — 36-month use period: https://paosymbol.com/pao36.svg
+
+## Usage
+
+These SVG files can be used freely on:
+- Cosmetic product labels
+- Packaging design files
+- Product documentation
+- Brand guidelines
+
+No attribution is required. The vectors are clean, scalable, and print-ready.
+
+## Contact
+
+Questions? Reach out via Twitter: https://twitter.com/KennedysGarage
+
+## Site
+
+https://paosymbol.com
