@@ -1,0 +1,16 @@
+// Cloudflare Workers config for paosymbol.com (static site, no build step)
+{
+  "name": "paosymbol",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  },
+  // the live domain (DNS on Cloudflare); www is sent to the bare domain by a Cloudflare redirect rule
+  "routes": [
+    { "pattern": "paosymbol.com", "custom_domain": true },
+    { "pattern": "www.paosymbol.com", "custom_domain": true }
+  ]
+}
